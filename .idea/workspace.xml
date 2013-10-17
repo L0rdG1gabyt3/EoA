@@ -17,7 +17,7 @@
     <file path="/signup.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380783915797" ignored="false" />
     <file path="/nutrition.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380770990142" ignored="false" />
     <file path="/customize.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380852023061" ignored="false" />
-    <file path="/header.inc" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381971891523" ignored="false" />
+    <file path="/header.inc" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381984123891" ignored="false" />
     <file path="/footer.inc" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381971833920" ignored="false" />
     <file path="/calculate.js" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381983879040" ignored="false" />
     <file path="/customize1.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381972529226" ignored="false" />
@@ -41,19 +41,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.inc" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.inc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/footer.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+            <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.33908755">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculate.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="calculate.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/calculate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.70177513">
+            <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,8 +62,16 @@
       <file leaf-file-name="header.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/header.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="89" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="45" column="98" selection-start="1893" selection-end="1893" vertical-scroll-proportion="-8.764706">
+              <folding>
+                <marker date="1381984150619" expanded="true" signature="1513:2753" placeholder="..." />
+                <marker date="1381984150619" expanded="true" signature="1560:2734" placeholder="..." />
+                <marker date="1381984150619" expanded="true" signature="1598:2142" placeholder="..." />
+                <marker date="1381984150619" expanded="false" signature="1778:1792" placeholder="..." />
+                <marker date="1381984150619" expanded="true" signature="1793:2107" placeholder="..." />
+                <marker date="1381984150619" expanded="true" signature="1948:2067" placeholder="..." />
+                <marker date="1381984150619" expanded="true" signature="2223:2710" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,10 +106,10 @@
         <option value="$PROJECT_DIR$/db.php.inc" />
         <option value="$PROJECT_DIR$/views/userview.php" />
         <option value="$PROJECT_DIR$/views/footer.inc" />
-        <option value="$PROJECT_DIR$/views/header.inc" />
         <option value="$PROJECT_DIR$/customize1.html" />
         <option value="$PROJECT_DIR$/customize.php" />
         <option value="$PROJECT_DIR$/js/calculate.js" />
+        <option value="$PROJECT_DIR$/views/header.inc" />
       </list>
     </option>
   </component>
@@ -422,20 +430,6 @@
         <state line="61" column="35" selection-start="2616" selection-end="2616" vertical-scroll-proportion="0.40726817" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/header.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="89" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/footer.inc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/customize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="89" column="60" selection-start="5088" selection-end="5088" vertical-scroll-proportion="0.5872093">
@@ -445,7 +439,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/calculate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.70177513">
+        <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/header.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="98" selection-start="1893" selection-end="1893" vertical-scroll-proportion="-8.764706">
+          <folding>
+            <marker date="1381984150619" expanded="true" signature="1513:2753" placeholder="..." />
+            <marker date="1381984150619" expanded="true" signature="1560:2734" placeholder="..." />
+            <marker date="1381984150619" expanded="true" signature="1598:2142" placeholder="..." />
+            <marker date="1381984150619" expanded="false" signature="1778:1792" placeholder="..." />
+            <marker date="1381984150619" expanded="true" signature="1793:2107" placeholder="..." />
+            <marker date="1381984150619" expanded="true" signature="1948:2067" placeholder="..." />
+            <marker date="1381984150619" expanded="true" signature="2223:2710" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.inc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.33908755">
           <folding />
         </state>
       </provider>

@@ -43,7 +43,7 @@
                     <div class="row">
                         <img src="img/logo.png" class="logo" height="267" width="400" alt ="Essence of Awesome Logo">
                             <div class="right_form"  style="margin-top: 1%">
-                                <input type="text" contenteditable="true" value="Search">
+                                <!-- <input type="text" contenteditable="true" value="Search"> -->
                                     <div class="panel">
                                     <?php $view->show($contentPage, $user);
                                     </div>
