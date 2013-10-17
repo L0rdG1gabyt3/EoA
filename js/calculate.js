@@ -28,8 +28,9 @@ function calculate(){
         p = p+2;
         document.getElementById("totpan").innerHTML="$" + p;
     }
-    if(document.getElementById("swirled").value = 1){
+    if(document.getElementById("swirled").checked == 1){
         p=p+.5;
         document.getElementById("totpan").innerHTML="$" + p;
     }
+
 }

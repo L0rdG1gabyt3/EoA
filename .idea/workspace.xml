@@ -4,7 +4,7 @@
     <list default="true" id="108c780a-da61-4256-be32-8892f8e4daad" name="Default" comment="" />
     <ignored path="EoA.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381971526163" ignored="false" />
+    <file path="/Dummy.txt" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381983686568" ignored="false" />
     <file path="/foundation.css" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380853403062" ignored="false" />
     <file path="/index.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381280955997" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380590563415" ignored="false" />
@@ -19,7 +19,7 @@
     <file path="/customize.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1380852023061" ignored="false" />
     <file path="/header.inc" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381971891523" ignored="false" />
     <file path="/footer.inc" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381971833920" ignored="false" />
-    <file path="/calculate.js" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381975860012" ignored="false" />
+    <file path="/calculate.js" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381983879040" ignored="false" />
     <file path="/customize1.html" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381972529226" ignored="false" />
     <file path="/customize.php" changelist="108c780a-da61-4256-be32-8892f8e4daad" time="1381975916811" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +44,7 @@
       <file leaf-file-name="footer.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/footer.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="-8.088235">
+            <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="calculate.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/calculate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="351" selection-end="351" vertical-scroll-proportion="0.20118344">
+            <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.70177513">
               <folding />
             </state>
           </provider>
@@ -62,17 +62,8 @@
       <file leaf-file-name="header.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/header.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="98" selection-start="1696" selection-end="1696" vertical-scroll-proportion="-3.1470587">
-              <folding>
-                <marker date="1381971900664" expanded="true" signature="1316:3026" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="1363:3007" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="1401:2416" placeholder="..." />
-                <marker date="1381971900664" expanded="false" signature="1581:1595" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="1596:2389" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="1751:2354" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="1812:2311" placeholder="..." />
-                <marker date="1381971900664" expanded="true" signature="2497:2984" placeholder="..." />
-              </folding>
+            <state line="45" column="89" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,8 +100,8 @@
         <option value="$PROJECT_DIR$/views/footer.inc" />
         <option value="$PROJECT_DIR$/views/header.inc" />
         <option value="$PROJECT_DIR$/customize1.html" />
-        <option value="$PROJECT_DIR$/js/calculate.js" />
         <option value="$PROJECT_DIR$/customize.php" />
+        <option value="$PROJECT_DIR$/js/calculate.js" />
       </list>
     </option>
   </component>
@@ -289,13 +280,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.67049366" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16034272" sideWeight="0.67049366" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16401468" sideWeight="0.67049366" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -388,95 +379,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="2" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="2" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/userview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="24" selection-start="208" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="24" selection-start="208" selection-end="216" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/session.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="9" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4739" column="17" selection-start="201893" selection-end="201893" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4739" column="17" selection-start="201893" selection-end="201893" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/signup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="31" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.03132832">
-          <folding />
-        </state>
+        <state line="80" column="31" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.03132832" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="26" selection-start="5989" selection-end="5989" vertical-scroll-proportion="0.12280702">
-          <folding />
-        </state>
+        <state line="118" column="26" selection-start="5989" selection-end="5989" vertical-scroll-proportion="0.12280702" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/foundation.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customize1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="35" selection-start="2616" selection-end="2616" vertical-scroll-proportion="0.40726817">
-          <folding />
-        </state>
+        <state line="61" column="35" selection-start="2616" selection-end="2616" vertical-scroll-proportion="0.40726817" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/header.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="98" selection-start="1696" selection-end="1696" vertical-scroll-proportion="-3.1470587">
-          <folding>
-            <marker date="1381971900664" expanded="true" signature="1316:3026" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="1363:3007" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="1401:2416" placeholder="..." />
-            <marker date="1381971900664" expanded="false" signature="1581:1595" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="1596:2389" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="1751:2354" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="1812:2311" placeholder="..." />
-            <marker date="1381971900664" expanded="true" signature="2497:2984" placeholder="..." />
-          </folding>
+        <state line="45" column="89" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/footer.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="-8.088235">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/calculate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="351" selection-end="351" vertical-scroll-proportion="0.20118344">
+        <state line="11" column="73" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -484,6 +439,13 @@
     <entry file="file://$PROJECT_DIR$/customize.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="89" column="60" selection-start="5088" selection-end="5088" vertical-scroll-proportion="0.5872093">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calculate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="5" selection-start="927" selection-end="927" vertical-scroll-proportion="0.70177513">
           <folding />
         </state>
       </provider>
