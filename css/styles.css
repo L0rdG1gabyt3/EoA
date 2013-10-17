@@ -1,0 +1,32 @@
+/*--Document--*/
+body{
+    font-family: "Segoe UI", arial;
+}
+/*--Navigation--*/
+
+#nav{
+    overflow: auto;
+    list-style: none;
+    padding: 0 0 25px 120px;
+}
+
+#nav li{
+    float: left;
+    text-align: center;
+    width: 150px;
+}
+#content-wrapper{
+    background-color: #afbcd8;
+    width: 980px;
+    margin: 0 auto;
+}
+
+#info_box{
+    background-color: #d7bb95;
+    border: solid #000000 1px;
+}
+
+.info_box{
+    float:left;
+    width:20;
+}
